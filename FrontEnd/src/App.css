@@ -1,0 +1,8 @@
+.bg-grad-custom {
+    background: rgb(37,99,235);
+    background: linear-gradient(50deg, rgba(37,99,235,1) 0%, rgba(255,237,213,1) 100%);
+}
+
+.bg-custom-color {
+    background-color: #918f80;
+}
