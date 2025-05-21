@@ -1,39 +1,5 @@
-# <<<<<<< HEAD
-# node_modules
-# =======
-# # Logs
-# logs
-# *.log
-# npm-debug.log*
-# yarn-debug.log*
-# yarn-error.log*
-# pnpm-debug.log*
-# lerna-debug.log*
-
-# node_modules
-# dist
-# dist-ssr
-# *.local
-
-# # Editor directories and files
-# .vscode/*
-# !.vscode/extensions.json
-# .idea
-# .DS_Store
-# *.suo
-# *.ntvs*
-# *.njsproj
-# *.sln
-# *.sw?
-# >>>>>>> 9f32b8986e15283f677ccaa7c152606dd4da0193
-
-
 # Node dependencies
 node_modules
-
-# Build outputs
-dist
-dist-ssr
 
 # Logs
 logs
@@ -44,11 +10,15 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-# Local environment files
+# Build outputs
+dist
+dist-ssr
+
+# Local environment
 .env
 *.local
 
-# IDEs and editors
+# Editor directories and files
 .vscode/*
 !.vscode/extensions.json
 .idea
