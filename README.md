@@ -25,7 +25,7 @@ A full-stack web application for managing player registrations, payments, and ad
 * **Node.js**, **Express.js**
 * **MongoDB** with Mongoose ODM
 * **JWT** for authentication
-* **Payment Integration** (e.g., Razorpay/Stripe; plug your service)
+* **Payment Integration** with Razorpay
 
 ### Frontend (Located in `FrontEnd/` directory)
 
