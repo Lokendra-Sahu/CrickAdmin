@@ -29,7 +29,10 @@ A full-stack web application for managing player registrations, payments, and ad
 
 ### Frontend (Located in `FrontEnd/` directory)
 
-* Likely a React.js application (not fully analyzed in this version)
+* **React.js** for building the user interface
+* **React Router** for client-side routing
+* **Tailwind CSS** for styling
+
 
 ## 🛋️ Project Structure
 
@@ -43,7 +46,7 @@ GoProject-main/
 │   ├── middleware/               # Auth and protection
 │   ├── db/connectToMongoDB.js    # MongoDB connection
 │   └── utils/                    # Token generation, helpers
-├── FrontEnd/                     # Frontend app (React assumed)
+├── FrontEnd/                     # React frontend app
 ├── .env                          # Environment variables (ignored)
 ├── package.json                  # Dependencies and scripts
 ```
